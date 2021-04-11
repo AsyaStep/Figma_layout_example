@@ -1,0 +1,117 @@
+.body_J{
+    position: absolute;
+    width: 1680px;
+    height: 1282px;
+    left: 80px;
+    top: 7522px;
+    background: #FFFFFF;
+}
+
+.text_J{
+    position: absolute;
+    width: 1392px;
+    height: 72px;
+    left: 144px;
+    top: 120px;       
+}
+
+.text_J h1{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+
+.text_J_2{
+    position: absolute;
+    width: 1392px;
+    height: 100px;
+    left: 144px;
+    top: 222px;
+}
+
+.text_J_2 p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.group_J{
+    position: absolute;
+    width: 622px;
+    height: 480px;
+    left: 80px;
+    top: 552px;
+}
+
+.group_J_text_1{
+    width: 622px;
+    height: 36px;
+    left: 80px;
+    top: 552px;
+}
+
+.group_J_text_2{
+    margin: 24px 0 60px;
+    width: 622px;
+    height: 60px;
+    left: 80px;
+    top: 612px;
+}
+
+.group_J_text_3{
+    width: 622px;
+    height: 36px;
+    left: 80px;
+    top: 732px;
+}
+
+.group_J_text_4{
+    margin: 24px 0 60px;
+    width: 622px;
+    height: 60px;
+    left: 80px;
+    top: 792px;
+}
+
+.group_J_text_5{
+    width: 622px;
+    height: 36px;
+    left: 80px;
+    top: 912px;
+}
+
+.group_J_text_6{
+    margin-top: 24px;
+    width: 622px;
+    height: 60px;
+    left: 80px;
+    top: 972px;
+}
+
+.rectangle_J{
+    position:absolute;
+    width: 830px;
+    height: 740px;
+    left: 850px;
+    top: 422px;
+    background: url(../img/square.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+

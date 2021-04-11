@@ -1,0 +1,47 @@
+.body_E{
+    position: absolute;
+    width: 1680px;
+    height: 600px;
+    left: 80px;
+    top: 3846px;
+    background: #FFFFFF;
+}
+
+.group_E{
+    position: absolute;
+    width: 686px;
+    height: 150px;
+    left: 914px;
+    top: 225px;   
+}
+
+.group_E_text_1{ 
+    width: 686px;
+    height: 36px;
+    left: 914px;
+    top: 225px;
+}
+
+.group_E_text_2{
+    margin-top: 24px;
+    width: 686px;
+    height: 90px;
+    left: 914px;
+    top: 285px;
+}
+
+.rectangle_E{
+    position:absolute;
+    width: 750px;
+    height: 440px;
+    left: 80px;
+    top: 80px;
+    background: url(../img/rectangle.jpg); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+

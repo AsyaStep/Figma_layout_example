@@ -1,0 +1,125 @@
+.body_K{
+    position: absolute;
+    width: 1680px;
+    height: 1269px;
+    left: 80px;
+    top: 8844px;
+    background: #FFFFFF;
+}
+
+.text_K{
+    position: absolute;
+    width: 750px;
+    height: 144px;
+    left: 80px;
+    top: 120px;      
+}
+
+.text_K h1{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+
+.text_K_2{
+    position: absolute;
+    width: 1392px;
+    height: 100px;
+    left: 80px;
+    top: 294px;
+}
+
+.text_K_2 p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: -0.015em;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.group_K{
+    position: absolute;
+    width: 686px;
+    height: 655px;
+    left: 80px;
+    top: 494px;
+    border: 1px solid rgb(179, 179, 179);
+}
+
+.group_K_text_1{
+    position: absolute;
+    width: 558px;
+    height: 36px;
+    left: 64px;
+    top: 471px;
+}
+
+.group_K_text_2{
+    position: absolute;
+    width: 558px;
+    height: 60px;
+    left: 64px;
+    top: 531px;
+}
+
+.rectangle_K{
+    width: 686px;
+    height: 400px;
+    left: 80px;
+    top: 494px;
+    background: url(../img/rect_K.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+.group_K_2{
+    position: absolute;
+    width: 686px;
+    height: 655px;
+    left: 850px;
+    top: 494px;
+    border: 1px solid rgb(179, 179, 179);
+}
+
+.group_K_2_text_1{
+    position: absolute;
+    width: 558px;
+    height: 36px;
+    left: 64px;
+    top: 471px;
+}
+
+.group_K_2_text_2{
+    position: absolute;
+    width: 558px;
+    height: 36px;
+    left: 64px;
+    top: 531px;
+}
+
+.rectangle_K_2{
+    width: 686px;
+    height: 400px;
+    left: 850px;
+    top: 494px;
+    background: url(../img/rect_K.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+

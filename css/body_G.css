@@ -1,0 +1,55 @@
+.body_G{
+    position: absolute;
+    width: 1680px;
+    height: 740px;
+    left: 80px;
+    top: 5126px;
+    background: #FFFFFF;
+}
+
+.group_G{
+    position: absolute;
+    width: 686px;
+    height: 259px;
+    left: 914px;
+    top: 240px;
+}
+
+.group_G_text_1{
+    width: 686px;
+    height: 36px;
+    left: 914px;
+    top: 240px;
+}
+
+.group_G_text_2{
+    margin: 24px 0 32px 0;    
+    width: 686px;
+    height: 90px;
+    left: 914px;
+    top: 300px;
+}
+
+.group_G_text_3{
+    margin-top: 32px;
+    width: 685px;
+    height: 44px;
+    left: 915px;
+    top: 455px;
+}
+
+.rectangle_G{
+    position: absolute;
+    width: 830px;
+    height: 740px;
+    left: 0px;
+    top: 0px;
+    background: url(../img/square.jpg); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+

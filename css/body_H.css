@@ -1,0 +1,91 @@
+.body_H{
+    position: absolute;
+    width: 1680px;
+    height: 740px;
+    left: 80px;
+    top: 5906px;
+    background: #FFFFFF;
+}
+
+.group_H{
+    position: absolute;
+    width: 686px;
+    height: 384px;
+    left: 914px;
+    top: 178px;
+}
+
+.group_H_text_1{
+    width: 686px;
+    height: 36px;
+    left: 914px;
+    top: 178px;
+}
+
+.group_H_text_2{
+    margin: 24px 0 40px 0;    
+    width: 686px;
+    height: 90px;
+    left: 914px;
+    top: 238px;
+}
+
+
+.circle_H{
+    position: absolute;
+    box-sizing: border-box;
+}    
+
+.ellipse_H{  
+    margin-bottom: 31px;  
+    width: 44px;
+    height: 44px;     
+    background: url(../img/rect_small_H.jpg); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 0.1px solid rgb(163, 162, 162);
+}
+
+.ell_H_1{
+    left: 914px;
+    top: 368px;
+}
+
+.ell_H_2{
+    left: 914px;
+    top: 443px;
+}
+
+.ell_H_3{
+    left: 914px;
+    top: 518px;
+}
+
+.line p{
+    margin-left: 20px;
+    width: 622px;
+    height: 22px;
+    margin-top: 0.625em;
+}
+
+.rectangle_H{
+    position: absolute;
+    width: 830px;
+    height: 740px;
+    left: 0px;
+    top: 0px;
+    background: url(../img/square.jpg); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(179, 179, 179);
+    box-sizing: border-box;
+}    
+
+.line{
+    display: inline-flex;
+}
+
+
